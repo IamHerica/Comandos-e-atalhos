@@ -8,7 +8,7 @@
 - **cd** = mudar para outro diretório
   - **cd ..** = voltar para o diretório anterior
   - **cd /** = ir ao diretório raiz
-  - **cd ~ ** = ir ao diretório pessoal/home
+  - **cd ~ (acento til)** = ir ao diretório pessoal/home
 - **_comando_ --help** = para exibir o arquivo de ajuda  
 - **man _comando_** = para exibir o manual  
 - **mv _nome_antigo_ _nome_novo**_ = renomear o nome de algum arquivo ou diretório

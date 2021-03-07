@@ -14,7 +14,7 @@
     - **find ~ -type f -name _exemplo.txt*_** = buscar arquivos ocultos
     - **find ~ -user _usuário_ -name '*.txt'** = buscar com base no usuário
 
-- **rm -r* **= remover todos os arquivos de um diretório
+- **rm -r*_(asterisco)_ **= remover todos os arquivos de um diretório
 
   ****
 

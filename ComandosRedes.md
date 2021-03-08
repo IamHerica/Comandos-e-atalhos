@@ -9,7 +9,7 @@
 
 >
 > ### Rede wan:
-> ```python
+> ```c
 > 	É uma rede geograficamente distribuída ligando países, continentes...(cobertura mundial).
 > ```
 
@@ -59,6 +59,7 @@
 >```c
 >A 'interface de rede' é um software e/ou um hardware que faz a comunicação em um rede de computadores.
 >    
->Existe também a 'interface de rede loopback', que é um tipo especial de interface pois permite fazer conexões contigo mesmo, permindo testar programas de rede sem interferir em sua rede. Por exemplo, é possível criar um servidor web, subir um site...
+>Existe também a 'interface de rede loopback', que é um tipo especial de interface pois permite fazer conexões contigo mesmo,
+>permindo testar programas de rede sem interferir em sua rede. Por exemplo, é possível criar um servidor web, subir um site...
 >```
 

@@ -1,4 +1,4 @@
-# Redes: 🔗🥅
+# Redes: 🔗
 
  ### Fundamentos de redes: são dispositivos interligados para trocarem informações e compartilharem recursos, como por exemplo: impressoras, celulares.
 
@@ -63,3 +63,36 @@
 >permindo testar programas de rede sem interferir em sua rede. Por exemplo, é possível criar um servidor web, subir um site...
 >```
 
+
+
+# Comandos de redes: 🥅
+
+- **ifconfig** = visualizar a interface de rede, como exemplo: dados da rede local e física (IP, netmask, broadcast)
+- **hostname** = traz informações sobre o _host_.
+  - **hostname -I** = traz o IP do computador
+  - **hostname -i** = traz o endereço de _loopback_.
+- **whoami** = mostra o nome do usuário que está na rede
+- **ping www.google.com.br** = verifica se o host está ativo
+  - **ping www.google.com.br -w 4** = para limitar os pacotes de dados
+- **dig www.google.com.br** = informações sobre o DNS (caminho de rede)
+  - **dig www.google.com.br short ** = mostrar o ip do site mencionado
+- **traceroute** = traça a rota da rede local até outro host
+  - **traceroute www.google.com.br** = mostra a quantidade de dispositivos queque passa até chegar ao site do google.
+- **whois www.google.com.br** = traz informações sobre IP, país, proprietário, servidor DNV, contato...
+- **finger** = informações do usuário que está logado no host
+
+
+
+****
+
+
+
+
+
+> ### Glossário:
+>
+> Host = pode ser uma aplicação web, um computador, um servidor...
+>
+> Loopback = roteamento de sinais eletrônicos, fluxo de dados(itens digitais que retornam para suas origens sem processamento ou modificação).
+>
+> 

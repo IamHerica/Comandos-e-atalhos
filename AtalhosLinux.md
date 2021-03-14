@@ -21,6 +21,11 @@
   - **rm -f** = remover arquivos "a força"
   - **rm -rf** = remover diretórios que contém informações
 - **!!** = executar o último comando
+- **alias _novatecla_ _comando_** =  para o mudar o atalho de um comando
+- **ls -a** = ver os arquivos ocultos e diretórios 
+- **cmp _exemplo.txt_ _exemplo2.txt_ **= comparar aquivos
+- **sort -n** = organiza a saída de um arquivo em ordem numérica 
+
 - **clear** = limpa o terminal
 - **exit** = finalizar a sessão
 

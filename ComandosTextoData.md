@@ -9,6 +9,10 @@
   - **head _arquivo.txt_** = visualizar as 10 primeiras linhas
   - **tail _arquivo.txt_** = visualizar as 10 últimas linhas
 - **tail _arquivo.txt_ > _arquivo1.txt_** = direcionar as 10 últimas linhas para o _arquivo1.txt_. Também é possível com outros comandos, como head e cat. 
+- **nl _exemplo.txt_** = contar os números de um arquivo
+- **wc-l _exemplo.txt_** = contar as linhas do arquivo
+- **wc -w _exemplo.txt_** = contar a quantidade de palavras
+- **wc -m _exemplo.txt_** = contar os caracteres
 
 ****
 
